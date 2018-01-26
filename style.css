@@ -18,4 +18,5 @@ p {
   padding:10px;
 }
 .page-main {
-  text-align: center;
+  align: center;
+}
