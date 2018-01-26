@@ -30,5 +30,6 @@ ul{
   padding: 0;
 }
 .gallery-item {
+  position: relative;
   float: right;
 }
