@@ -19,5 +19,13 @@ p {
 }
 .page-main {
   text-align: center;
-  list-style: center;
+}
+ul{
+  position:relative;
+  display: inline-block;  
+  list-style: none;
+  width:100%;
+  text-align: center;
+  margin: auto;
+  padding: 0;
 }
