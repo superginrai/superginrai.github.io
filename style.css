@@ -1,9 +1,19 @@
 bh1 {
-  font-family: Century Gothic, serif;
+  font-family: Arial Black, serif;
 }
 h3 {
-  font-family: Arial, serif;
+  font-family: Arial Black, Arial, serif;
 }
 p {
   color: blue;
+}
+.page-title {
+  text-align: center;
+  font-weight: 100;
+}
+.page-description {
+  border:1px solid #000;
+  margin: 2px;
+  text-align: center;
+  padding:30px;
 }
