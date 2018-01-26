@@ -29,3 +29,6 @@ ul{
   margin: auto;
   padding: 0;
 }
+.gallery-item {
+  float: right;
+}
