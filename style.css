@@ -1,5 +1,5 @@
-bh1 {
-  font-family: Arial, serif;
+h1 {
+  font-family: Arial Black, Arial, serif;
 }
 h3 {
   font-family: Arial, serif;
@@ -19,5 +19,4 @@ p {
 }
 .page-main {
   text-align: center;
-  list-align: center;
 }
