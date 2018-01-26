@@ -1,8 +1,8 @@
 bh1 {
-  font-family: Arial Black, serif;
+  font-family: Arial, serif;
 }
 h3 {
-  font-family: Arial Black, Arial, serif;
+  font-family: Arial, serif;
 }
 p {
   color: blue;
@@ -18,5 +18,6 @@ p {
   padding:10px;
 }
 .page-main {
-  align: center;
+  text-align: center;
+  list-align: center;
 }
